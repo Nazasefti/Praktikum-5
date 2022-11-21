@@ -4,6 +4,8 @@
 
 # Kelas : TI.22.A.3
 
+
+
 Gunakan While untuk memasukkan data secara berulang ulang dan masukkan input()
 
 ![Screenshot (109)](https://user-images.githubusercontent.com/115772516/203047480-9f7e456b-554a-4863-a7bc-0f5e454202ea.png)
@@ -25,3 +27,7 @@ Lalu tampilkan elemennya
 Maka hasilnya akan menjadi
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/115772516/203051784-20ee6e0f-5fe2-465d-b8bf-1bc36f6773c5.png)
+
+# FLOWCHART
+
+![Screenshot (118)](https://user-images.githubusercontent.com/115772516/203059001-1d592991-53e9-4b31-92a3-75f9ff1ad22d.png)
